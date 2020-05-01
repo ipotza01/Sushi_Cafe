@@ -1,0 +1,39 @@
+C:\Users\ASUS\source\repos\WindowsApp9\WindowsApp9\bin\Debug\WindowsApp9.exe.config
+C:\Users\ASUS\source\repos\WindowsApp9\WindowsApp9\bin\Debug\WindowsApp9.exe
+C:\Users\ASUS\source\repos\WindowsApp9\WindowsApp9\bin\Debug\WindowsApp9.pdb
+C:\Users\ASUS\source\repos\WindowsApp9\WindowsApp9\bin\Debug\WindowsApp9.xml
+C:\Users\ASUS\source\repos\WindowsApp9\WindowsApp9\obj\Debug\WindowsApp9.Form1.resources
+C:\Users\ASUS\source\repos\WindowsApp9\WindowsApp9\obj\Debug\WindowsApp9.Form2.resources
+C:\Users\ASUS\source\repos\WindowsApp9\WindowsApp9\obj\Debug\WindowsApp9.Form3.resources
+C:\Users\ASUS\source\repos\WindowsApp9\WindowsApp9\obj\Debug\WindowsApp9.Form4.resources
+C:\Users\ASUS\source\repos\WindowsApp9\WindowsApp9\obj\Debug\WindowsApp9.Form5.resources
+C:\Users\ASUS\source\repos\WindowsApp9\WindowsApp9\obj\Debug\WindowsApp9.Form6.resources
+C:\Users\ASUS\source\repos\WindowsApp9\WindowsApp9\obj\Debug\WindowsApp9.Form7.resources
+C:\Users\ASUS\source\repos\WindowsApp9\WindowsApp9\obj\Debug\WindowsApp9.Form8.resources
+C:\Users\ASUS\source\repos\WindowsApp9\WindowsApp9\obj\Debug\WindowsApp9.Resources.resources
+C:\Users\ASUS\source\repos\WindowsApp9\WindowsApp9\obj\Debug\WindowsApp9.vbproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\WindowsApp9\WindowsApp9\obj\Debug\WindowsApp9.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\WindowsApp9\WindowsApp9\obj\Debug\WindowsApp9.exe
+C:\Users\ASUS\source\repos\WindowsApp9\WindowsApp9\obj\Debug\WindowsApp9.xml
+C:\Users\ASUS\source\repos\WindowsApp9\WindowsApp9\obj\Debug\WindowsApp9.pdb
+C:\Users\ASUS\source\repos\WindowsApp9\WindowsApp9\obj\Debug\WindowsApp9.vbprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\WindowsApp9\WindowsApp9\obj\Debug\WindowsApp9.Form10.resources
+C:\Users\ACER NITRO 5\Desktop\Project GG\WindowsApp9\WindowsApp9\bin\Debug\WindowsApp9.exe.config
+C:\Users\ACER NITRO 5\Desktop\Project GG\WindowsApp9\WindowsApp9\bin\Debug\WindowsApp9.exe
+C:\Users\ACER NITRO 5\Desktop\Project GG\WindowsApp9\WindowsApp9\bin\Debug\WindowsApp9.pdb
+C:\Users\ACER NITRO 5\Desktop\Project GG\WindowsApp9\WindowsApp9\bin\Debug\WindowsApp9.xml
+C:\Users\ACER NITRO 5\Desktop\Project GG\WindowsApp9\WindowsApp9\obj\Debug\WindowsApp9.Form1.resources
+C:\Users\ACER NITRO 5\Desktop\Project GG\WindowsApp9\WindowsApp9\obj\Debug\WindowsApp9.Form10.resources
+C:\Users\ACER NITRO 5\Desktop\Project GG\WindowsApp9\WindowsApp9\obj\Debug\WindowsApp9.Form2.resources
+C:\Users\ACER NITRO 5\Desktop\Project GG\WindowsApp9\WindowsApp9\obj\Debug\WindowsApp9.Form3.resources
+C:\Users\ACER NITRO 5\Desktop\Project GG\WindowsApp9\WindowsApp9\obj\Debug\WindowsApp9.Form4.resources
+C:\Users\ACER NITRO 5\Desktop\Project GG\WindowsApp9\WindowsApp9\obj\Debug\WindowsApp9.Form5.resources
+C:\Users\ACER NITRO 5\Desktop\Project GG\WindowsApp9\WindowsApp9\obj\Debug\WindowsApp9.Form6.resources
+C:\Users\ACER NITRO 5\Desktop\Project GG\WindowsApp9\WindowsApp9\obj\Debug\WindowsApp9.Form7.resources
+C:\Users\ACER NITRO 5\Desktop\Project GG\WindowsApp9\WindowsApp9\obj\Debug\WindowsApp9.Form8.resources
+C:\Users\ACER NITRO 5\Desktop\Project GG\WindowsApp9\WindowsApp9\obj\Debug\WindowsApp9.Resources.resources
+C:\Users\ACER NITRO 5\Desktop\Project GG\WindowsApp9\WindowsApp9\obj\Debug\WindowsApp9.vbproj.GenerateResource.cache
+C:\Users\ACER NITRO 5\Desktop\Project GG\WindowsApp9\WindowsApp9\obj\Debug\WindowsApp9.exe
+C:\Users\ACER NITRO 5\Desktop\Project GG\WindowsApp9\WindowsApp9\obj\Debug\WindowsApp9.xml
+C:\Users\ACER NITRO 5\Desktop\Project GG\WindowsApp9\WindowsApp9\obj\Debug\WindowsApp9.pdb
+C:\Users\ACER NITRO 5\Desktop\Project GG\WindowsApp9\WindowsApp9\obj\Debug\WindowsApp9.vbprojAssemblyReference.cache

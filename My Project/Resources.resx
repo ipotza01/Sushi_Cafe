@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="94750895_589971984949389_3402599999584862208_n" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\94750895_589971984949389_3402599999584862208_n.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="94521590_1515560075286793_8460356042860003328_n" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\94521590_1515560075286793_8460356042860003328_n.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="94911583_741094223295444_6120779346891243520_n" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\94911583_741094223295444_6120779346891243520_n.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ESgW4M_XQAAWYx9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ESgW4M_XQAAWYx9.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="95554383_165213804828217_488573871612493824_n" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\95554383_165213804828217_488573871612493824_n.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="94644736_747191376102452_7753191399855489024_n" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\94644736_747191376102452_7753191399855489024_n.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="94888412_536641267242212_6730596842439966720_n" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\94888412_536641267242212_6730596842439966720_n.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="58PIC9w58PIC58PICjcp2zDIKp1eb_PIC2018" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\58PIC9w58PIC58PICjcp2zDIKp1eb_PIC2018.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="vintage-background-for-coffee-menu-coffee-bean-vector-1236122" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\vintage-background-for-coffee-menu-coffee-bean-vector-1236122.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="3f9fed05f53b28aac803243d71a57055" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3f9fed05f53b28aac803243d71a57055.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ESgW4M_XQAAWYx9 (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ESgW4M_XQAAWYx9 (2).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="95019517_1412741218905779_5049060276394000384_n" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\95019517_1412741218905779_5049060276394000384_n.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="a84bc338551f18242dc221a1be4130c4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\a84bc338551f18242dc221a1be4130c4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="8f2bf1e1a7c933ca713c8e3dd5f14e28" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\8f2bf1e1a7c933ca713c8e3dd5f14e28.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="58PIC9w58PIC58PICjcp2zDIKp1eb_PIC20181" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\58PIC9w58PIC58PICjcp2zDIKp1eb_PIC20181.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="94560888_1128538257504694_4337063095101816832_n" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\94560888_1128538257504694_4337063095101816832_n.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="S__5963785" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\S__5963785.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="94511253_714940765909200_7865515287250993152_n" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\94511253_714940765909200_7865515287250993152_n.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="kisspng-coffee-cup-cafe-tea-espresso-thousands-of-quizzes-to-learn-english-for-free-k-5b68365da052d1.6902955015335563176567" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kisspng-coffee-cup-cafe-tea-espresso-thousands-of-quizzes-to-learn-english-for-free-k-5b68365da052d1.6902955015335563176567.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="95031230_1080007559040068_3845212601529139200_n" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\95031230_1080007559040068_3845212601529139200_n.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="94887665_325266465119171_2364921641579839488_n" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\94887665_325266465119171_2364921641579839488_n.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="images" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\images.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="95286990_246980066712741_7330832695448043520_n" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\95286990_246980066712741_7330832695448043520_n.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="94566666_3228432930520750_3453754623448317952_n" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\94566666_3228432930520750_3453754623448317952_n.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="94779970_560004817987924_8780451116388188160_n" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\94779970_560004817987924_8780451116388188160_n.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="94883606_270238394171647_2786127323361968128_n" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\94883606_270238394171647_2786127323361968128_n.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="94780335_253844709077865_8107266906009894912_n" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\94780335_253844709077865_8107266906009894912_n.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ff78a28155b93cdd420d056fdf9a9ff2 (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ff78a28155b93cdd420d056fdf9a9ff2 (2).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="94569260_1131041950571473_824528601507430400_n" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\94569260_1131041950571473_824528601507430400_n.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="94908322_524950948182076_658540145720426496_n" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\94908322_524950948182076_658540145720426496_n.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="vector-coffee-cup-on-background-menu-for-restaurant-cafe-bar-coffeehouse-eps-vector_csp19862287 (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\vector-coffee-cup-on-background-menu-for-restaurant-cafe-bar-coffeehouse-eps-vector_csp19862287 (2).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="images1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\images1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+</root>
